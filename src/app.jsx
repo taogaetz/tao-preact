@@ -7,7 +7,7 @@ export function App() {
     <>
       <div>
       </div>
-      <h1>Hello! My Name is Tao.</h1>
+      <h1>Hello! My Name is Tao. Lynn is a Cutie.</h1>
     </>
   )
 }
